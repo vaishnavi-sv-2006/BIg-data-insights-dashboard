@@ -1,0 +1,501 @@
+product_id,product_name,category,sub_category,unit_price
+P2000,Footwear Item 0,Fashion,Footwear,1486.57
+P2001,Kitchen Item 1,Home,Kitchen,21681.52
+P2002,Watches Item 2,Fashion,Watches,35817.69
+P2003,Cameras Item 3,Electronics,Cameras,29153.73
+P2004,Footwear Item 4,Fashion,Footwear,43487.52
+P2005,Women Clothing Item 5,Fashion,Women Clothing,37962.78
+P2006,Watches Item 6,Fashion,Watches,23741.7
+P2007,Women Clothing Item 7,Fashion,Women Clothing,9371.98
+P2008,Men Clothing Item 8,Fashion,Men Clothing,268.48
+P2009,Men Clothing Item 9,Fashion,Men Clothing,44124.54
+P2010,Apparel Item 10,SPORTS,Apparel,42230.49
+P2011,Personal Care Item 11,GROCERY,Personal Care,12408.34
+P2012,Footwear Item 12,FASHION,Footwear,28755.53
+P2013,Decor Item 13,HOME,Decor,32842.59
+P2014,Fitness Item 14,SPORTS,Fitness,26052.38
+P2015,Beverages Item 15,GROCERY,Beverages,37948.82
+P2016,Men Clothing Item 16,Fashion,Men Clothing,3593.4
+P2017,Footwear Item 17,Fashion,Footwear,40352.48
+P2018,Accessories Item 18,Electronics,Accessories,17701.05
+P2019,Appliances Item 19,Home,Appliances,21682.46
+P2020,Footwear Item 20,fashion,Footwear,20067.99
+P2021,Staples Item 21,grocery,Staples,23954.28
+P2022,Staples Item 22,grocery,Staples,26957.36
+P2023,Cameras Item 23,electronics,Cameras,31994.13
+P2024,Cameras Item 24,electronics,Cameras,23669.35
+P2025,Apparel Item 25,sports,Apparel,30846.0
+P2026,Watches Item 26,Fashion,Watches,15288.89
+P2027,Staples Item 27,Grocery,Staples,42156.91
+P2028,Staples Item 28,Grocery,Staples,2996.51
+P2029,Footwear Item 29,Fashion,Footwear,24594.32
+P2030,Beverages Item 30,Grocery,Beverages,4023.18
+P2031,Cameras Item 31,Electronics,Cameras,19979.68
+P2032,Footwear Item 32,Fashion,Footwear,11664.71
+P2033,Mobiles Item 33,Electronics,Mobiles,42166.9
+P2034,Kitchen Item 34,Home,Kitchen,686.1
+P2035,Appliances Item 35,Home,Appliances,17664.43
+P2036,Team Sports Item 36,Sports,Team Sports,35213.5
+P2037,Appliances Item 37,Home,Appliances,8561.11
+P2038,Apparel Item 38,Sports,Apparel,36719.73
+P2039,Mobiles Item 39,Electronics,Mobiles,38701.52
+P2040,Kitchen Item 40,Home,Kitchen,31889.04
+P2041,Staples Item 41,Grocery,Staples,9486.42
+P2042,Apparel Item 42,Sports,Apparel,12313.81
+P2043,Laptops Item 43,Electronics,Laptops,7594.54
+P2044,Watches Item 44,Fashion,Watches,8363.65
+P2045,Mobiles Item 45,Electronics,Mobiles,1737.54
+P2046,Furniture Item 46,Home,Furniture,38593.3
+P2047,Decor Item 47,Home,Decor,23829.28
+P2048,Cameras Item 48,Electronics,Cameras,14815.72
+P2049,Beverages Item 49,Grocery,Beverages,13101.3
+P2050,Beverages Item 50,Grocery,Beverages,24556.41
+P2051,Footwear Item 51,Fashion,Footwear,14767.48
+P2052,Men Clothing Item 52,Fashion,Men Clothing,38880.8
+P2053,Watches Item 53,Fashion,Watches,9571.2
+P2054,Personal Care Item 54,Grocery,Personal Care,39715.23
+P2055,Accessories Item 55,Electronics,Accessories,29917.42
+P2056,Outdoor Item 56,Sports,Outdoor,43052.61
+P2057,Mobiles Item 57,Electronics,Mobiles,777.33
+P2058,Staples Item 58,Grocery,Staples,2752.45
+P2059,Personal Care Item 59,Grocery,Personal Care,22589.67
+P2060,Footwear Item 60,Fashion,Footwear,41065.72
+P2061,Personal Care Item 61,Grocery,Personal Care,32912.42
+P2062,Beverages Item 62,Grocery,Beverages,28033.53
+P2063,Fitness Item 63,Sports,Fitness,1517.97
+P2064,Footwear Item 64,Fashion,Footwear,16001.31
+P2065,Cameras Item 65,Electronics,Cameras,15628.14
+P2066,Kitchen Item 66,Home,Kitchen,24439.19
+P2067,Snacks Item 67,Grocery,Snacks,11675.73
+P2068,Staples Item 68,Grocery,Staples,12094.56
+P2069,Snacks Item 69,Grocery,Snacks,27976.27
+P2070,Outdoor Item 70,Sports,Outdoor,42511.03
+P2071,Footwear Item 71,Fashion,Footwear,29741.7
+P2072,Kitchen Item 72,Home,Kitchen,30098.71
+P2073,Outdoor Item 73,Sports,Outdoor,44381.03
+P2074,Staples Item 74,Grocery,Staples,6990.32
+P2075,Apparel Item 75,Sports,Apparel,1618.22
+P2076,Outdoor Item 76,Sports,Outdoor,33573.32
+P2077,Cameras Item 77,Electronics,Cameras,19800.99
+P2078,Kitchen Item 78,Home,Kitchen,19353.6
+P2079,Personal Care Item 79,Grocery,Personal Care,10215.35
+P2080,Fitness Item 80,Sports,Fitness,22857.66
+P2081,Mobiles Item 81,Electronics,Mobiles,19952.98
+P2082,Kitchen Item 82,Home,Kitchen,15610.05
+P2083,Laptops Item 83,Electronics,Laptops,19978.7
+P2084,Footwear Item 84,Fashion,Footwear,17333.57
+P2085,Cameras Item 85,Electronics,Cameras,42301.29
+P2086,Team Sports Item 86,Sports,Team Sports,44113.28
+P2087,Staples Item 87,Grocery,Staples,37811.39
+P2088,Accessories Item 88,Electronics,Accessories,44569.58
+P2089,Cameras Item 89,Electronics,Cameras,12030.07
+P2090,Beverages Item 90,Grocery,Beverages,37947.18
+P2091,Kitchen Item 91,Home,Kitchen,18357.05
+P2092,Decor Item 92,Home,Decor,33601.27
+P2093,Kitchen Item 93,Home,Kitchen,9141.73
+P2094,Team Sports Item 94,Sports,Team Sports,36556.64
+P2095,Cameras Item 95,Electronics,Cameras,3846.64
+P2096,Accessories Item 96,Electronics,Accessories,12247.31
+P2097,Watches Item 97,Fashion,Watches,37005.49
+P2098,Men Clothing Item 98,Fashion,Men Clothing,33647.2
+P2099,Accessories Item 99,Electronics,Accessories,22605.48
+P2100,Beverages Item 100,Grocery,Beverages,30308.07
+P2101,Laptops Item 101,Electronics,Laptops,8431.46
+P2102,Kitchen Item 102,Home,Kitchen,30082.25
+P2103,Men Clothing Item 103,Fashion,Men Clothing,457.14
+P2104,Outdoor Item 104,Sports,Outdoor,37511.23
+P2105,Cameras Item 105,Electronics,Cameras,23280.83
+P2106,Men Clothing Item 106,Fashion,Men Clothing,42480.09
+P2107,Women Clothing Item 107,Fashion,Women Clothing,21569.05
+P2108,Watches Item 108,Fashion,Watches,19545.05
+P2109,Apparel Item 109,Sports,Apparel,20306.82
+P2110,Outdoor Item 110,Sports,Outdoor,16251.17
+P2111,Women Clothing Item 111,Fashion,Women Clothing,7582.88
+P2112,Men Clothing Item 112,Fashion,Men Clothing,37908.46
+P2113,Laptops Item 113,Electronics,Laptops,17569.32
+P2114,Mobiles Item 114,Electronics,Mobiles,23856.5
+P2115,Laptops Item 115,Electronics,Laptops,-50.0
+P2116,Staples Item 116,Grocery,Staples,2804.46
+P2117,Kitchen Item 117,Home,Kitchen,26913.12
+P2118,Accessories Item 118,Electronics,Accessories,39577.22
+P2119,Personal Care Item 119,Grocery,Personal Care,22252.97
+P2120,Snacks Item 120,Grocery,Snacks,7506.52
+P2121,Staples Item 121,Grocery,Staples,5313.23
+P2122,Beverages Item 122,Grocery,Beverages,40500.38
+P2123,Team Sports Item 123,Sports,Team Sports,31603.24
+P2124,Women Clothing Item 124,Fashion,Women Clothing,43482.15
+P2125,Team Sports Item 125,Sports,Team Sports,3796.54
+P2126,Watches Item 126,Fashion,Watches,40627.22
+P2127,Furniture Item 127,Home,Furniture,38068.74
+P2128,Cameras Item 128,Electronics,Cameras,40203.91
+P2129,Fitness Item 129,Sports,Fitness,357.76
+P2130,Staples Item 130,Grocery,Staples,33411.21
+P2131,Men Clothing Item 131,Fashion,Men Clothing,24746.87
+P2132,Staples Item 132,Grocery,Staples,25835.33
+P2133,Footwear Item 133,Fashion,Footwear,21166.64
+P2134,Beverages Item 134,Grocery,Beverages,33445.94
+P2135,Beverages Item 135,Grocery,Beverages,44992.78
+P2136,Fitness Item 136,Sports,Fitness,32002.88
+P2137,Men Clothing Item 137,Fashion,Men Clothing,30544.14
+P2138,Cameras Item 138,Electronics,Cameras,29483.91
+P2139,Men Clothing Item 139,Fashion,Men Clothing,31314.7
+P2140,Men Clothing Item 140,Fashion,Men Clothing,15460.19
+P2141,Apparel Item 141,Sports,Apparel,14477.19
+P2142,Beverages Item 142,Grocery,Beverages,35316.56
+P2143,Men Clothing Item 143,Fashion,Men Clothing,2482.71
+P2144,Beverages Item 144,Grocery,Beverages,34189.98
+P2145,Appliances Item 145,Home,Appliances,36641.3
+P2146,Mobiles Item 146,Electronics,Mobiles,23519.27
+P2147,Watches Item 147,Fashion,Watches,40965.56
+P2148,Footwear Item 148,Fashion,Footwear,21341.1
+P2149,Watches Item 149,Fashion,Watches,8095.27
+P2150,Personal Care Item 150,Grocery,Personal Care,16326.16
+P2151,Kitchen Item 151,Home,Kitchen,40773.36
+P2152,Staples Item 152,Grocery,Staples,44718.84
+P2153,Outdoor Item 153,Sports,Outdoor,19040.66
+P2154,Fitness Item 154,Sports,Fitness,7590.58
+P2155,Snacks Item 155,Grocery,Snacks,12955.47
+P2156,Women Clothing Item 156,Fashion,Women Clothing,24942.56
+P2157,Apparel Item 157,Sports,Apparel,25786.68
+P2158,Kitchen Item 158,Home,Kitchen,28389.3
+P2159,Footwear Item 159,Fashion,Footwear,37607.2
+P2160,Beverages Item 160,Grocery,Beverages,32033.23
+P2161,Snacks Item 161,Grocery,Snacks,11810.99
+P2162,Accessories Item 162,Electronics,Accessories,17836.87
+P2163,Accessories Item 163,Electronics,Accessories,37807.6
+P2164,Furniture Item 164,Home,Furniture,28538.52
+P2165,Staples Item 165,Grocery,Staples,7571.34
+P2166,Kitchen Item 166,Home,Kitchen,14716.02
+P2167,Furniture Item 167,Home,Furniture,35619.77
+P2168,Cameras Item 168,Electronics,Cameras,7826.2
+P2169,Outdoor Item 169,Sports,Outdoor,31127.87
+P2170,Team Sports Item 170,Sports,Team Sports,25402.35
+P2171,Team Sports Item 171,Sports,Team Sports,6720.77
+P2172,Laptops Item 172,Electronics,Laptops,31030.35
+P2173,Fitness Item 173,Sports,Fitness,6490.61
+P2174,Staples Item 174,Grocery,Staples,17989.16
+P2175,Mobiles Item 175,Electronics,Mobiles,13953.65
+P2176,Accessories Item 176,Electronics,Accessories,31081.14
+P2177,Team Sports Item 177,Sports,Team Sports,35227.85
+P2178,Outdoor Item 178,Sports,Outdoor,7656.58
+P2179,Apparel Item 179,Sports,Apparel,36558.47
+P2180,Snacks Item 180,Grocery,Snacks,422.92
+P2181,Team Sports Item 181,Sports,Team Sports,23899.16
+P2182,Beverages Item 182,Grocery,Beverages,23303.34
+P2183,Kitchen Item 183,Home,Kitchen,28109.21
+P2184,Decor Item 184,Home,Decor,10861.79
+P2185,Personal Care Item 185,Grocery,Personal Care,541.58
+P2186,Beverages Item 186,Grocery,Beverages,20518.31
+P2187,Beverages Item 187,Grocery,Beverages,3305.21
+P2188,Kitchen Item 188,Home,Kitchen,40159.4
+P2189,Fitness Item 189,Sports,Fitness,7896.79
+P2190,Furniture Item 190,Home,Furniture,19192.39
+P2191,Watches Item 191,Fashion,Watches,19586.05
+P2192,Personal Care Item 192,Grocery,Personal Care,24923.18
+P2193,Furniture Item 193,Home,Furniture,35235.48
+P2194,Beverages Item 194,Grocery,Beverages,21298.92
+P2195,Kitchen Item 195,Home,Kitchen,1255.35
+P2196,Kitchen Item 196,Home,Kitchen,34722.63
+P2197,Outdoor Item 197,Sports,Outdoor,3788.66
+P2198,Kitchen Item 198,Home,Kitchen,28905.38
+P2199,Laptops Item 199,Electronics,Laptops,36173.79
+P2200,Snacks Item 200,Grocery,Snacks,12792.07
+P2201,Footwear Item 201,Fashion,Footwear,20264.33
+P2202,Team Sports Item 202,Sports,Team Sports,742.69
+P2203,Decor Item 203,Home,Decor,36193.8
+P2204,Men Clothing Item 204,Fashion,Men Clothing,31676.13
+P2205,Watches Item 205,Fashion,Watches,10488.53
+P2206,Kitchen Item 206,Home,Kitchen,17620.55
+P2207,Laptops Item 207,Electronics,Laptops,31319.41
+P2208,Outdoor Item 208,Sports,Outdoor,16180.88
+P2209,Fitness Item 209,Sports,Fitness,7391.59
+P2210,Accessories Item 210,Electronics,Accessories,23380.42
+P2211,Women Clothing Item 211,Fashion,Women Clothing,32587.91
+P2212,Men Clothing Item 212,Fashion,Men Clothing,14503.67
+P2213,Women Clothing Item 213,Fashion,Women Clothing,5566.7
+P2214,Laptops Item 214,Electronics,Laptops,37346.36
+P2215,Mobiles Item 215,Electronics,Mobiles,11450.06
+P2216,Cameras Item 216,Electronics,Cameras,23124.9
+P2217,Kitchen Item 217,Home,Kitchen,31141.0
+P2218,Personal Care Item 218,Grocery,Personal Care,14335.99
+P2219,Footwear Item 219,Fashion,Footwear,29223.43
+P2220,Snacks Item 220,Grocery,Snacks,20740.42
+P2221,Appliances Item 221,Home,Appliances,25712.18
+P2222,Team Sports Item 222,Sports,Team Sports,26616.46
+P2223,Team Sports Item 223,Sports,Team Sports,37104.19
+P2224,Men Clothing Item 224,Fashion,Men Clothing,29568.71
+P2225,Beverages Item 225,Grocery,Beverages,11966.63
+P2226,Snacks Item 226,Grocery,Snacks,2775.29
+P2227,Outdoor Item 227,Sports,Outdoor,188.15
+P2228,Laptops Item 228,Electronics,Laptops,40708.24
+P2229,Furniture Item 229,Home,Furniture,42400.68
+P2230,Women Clothing Item 230,Fashion,Women Clothing,4324.7
+P2231,Men Clothing Item 231,Fashion,Men Clothing,21968.19
+P2232,Cameras Item 232,Electronics,Cameras,6905.78
+P2233,Team Sports Item 233,Sports,Team Sports,42698.78
+P2234,Personal Care Item 234,Grocery,Personal Care,11182.03
+P2235,Team Sports Item 235,Sports,Team Sports,22623.46
+P2236,Snacks Item 236,Grocery,Snacks,7535.51
+P2237,Snacks Item 237,Grocery,Snacks,15040.31
+P2238,Outdoor Item 238,Sports,Outdoor,12078.87
+P2239,Women Clothing Item 239,Fashion,Women Clothing,21446.1
+P2240,Beverages Item 240,Grocery,Beverages,18947.63
+P2241,Outdoor Item 241,Sports,Outdoor,14952.15
+P2242,Personal Care Item 242,Grocery,Personal Care,4853.01
+P2243,Furniture Item 243,Home,Furniture,21852.95
+P2244,Watches Item 244,Fashion,Watches,38274.19
+P2245,Men Clothing Item 245,Fashion,Men Clothing,32886.76
+P2246,Personal Care Item 246,Grocery,Personal Care,32453.53
+P2247,Cameras Item 247,Electronics,Cameras,16536.89
+P2248,Staples Item 248,Grocery,Staples,31907.73
+P2249,Snacks Item 249,Grocery,Snacks,21001.83
+P2250,Furniture Item 250,Home,Furniture,6846.55
+P2251,Decor Item 251,Home,Decor,18914.75
+P2252,Team Sports Item 252,Sports,Team Sports,6059.1
+P2253,Kitchen Item 253,Home,Kitchen,5239.39
+P2254,Mobiles Item 254,Electronics,Mobiles,1134.39
+P2255,Footwear Item 255,Fashion,Footwear,12799.44
+P2256,Kitchen Item 256,Home,Kitchen,14955.61
+P2257,Decor Item 257,Home,Decor,31504.72
+P2258,Mobiles Item 258,Electronics,Mobiles,24255.95
+P2259,Beverages Item 259,Grocery,Beverages,38644.25
+P2260,Cameras Item 260,Electronics,Cameras,8022.71
+P2261,Furniture Item 261,Home,Furniture,12040.72
+P2262,Fitness Item 262,Sports,Fitness,42354.26
+P2263,Apparel Item 263,Sports,Apparel,20037.08
+P2264,Cameras Item 264,Electronics,Cameras,35528.18
+P2265,Snacks Item 265,Grocery,Snacks,22197.82
+P2266,Decor Item 266,Home,Decor,21251.22
+P2267,Staples Item 267,Grocery,Staples,6749.57
+P2268,Mobiles Item 268,Electronics,Mobiles,38318.71
+P2269,Beverages Item 269,Grocery,Beverages,3617.23
+P2270,Team Sports Item 270,Sports,Team Sports,14030.03
+P2271,Beverages Item 271,Grocery,Beverages,30338.39
+P2272,Cameras Item 272,Electronics,Cameras,22875.37
+P2273,Team Sports Item 273,Sports,Team Sports,39673.77
+P2274,Snacks Item 274,Grocery,Snacks,1863.52
+P2275,Fitness Item 275,Sports,Fitness,29258.05
+P2276,Decor Item 276,Home,Decor,21537.68
+P2277,Laptops Item 277,Electronics,Laptops,7027.76
+P2278,Watches Item 278,Fashion,Watches,33471.75
+P2279,Outdoor Item 279,Sports,Outdoor,18567.09
+P2280,Team Sports Item 280,Sports,Team Sports,23967.56
+P2281,Watches Item 281,Fashion,Watches,43530.21
+P2282,Footwear Item 282,Fashion,Footwear,21931.22
+P2283,Women Clothing Item 283,Fashion,Women Clothing,37069.27
+P2284,Appliances Item 284,Home,Appliances,34653.8
+P2285,Kitchen Item 285,Home,Kitchen,29857.34
+P2286,Cameras Item 286,Electronics,Cameras,40366.76
+P2287,Men Clothing Item 287,Fashion,Men Clothing,11396.17
+P2288,Fitness Item 288,Sports,Fitness,36952.45
+P2289,Mobiles Item 289,Electronics,Mobiles,17062.04
+P2290,Footwear Item 290,Fashion,Footwear,36580.65
+P2291,Snacks Item 291,Grocery,Snacks,22270.61
+P2292,Laptops Item 292,Electronics,Laptops,38611.0
+P2293,Snacks Item 293,Grocery,Snacks,40278.37
+P2294,Decor Item 294,Home,Decor,26933.81
+P2295,Kitchen Item 295,Home,Kitchen,22891.96
+P2296,Snacks Item 296,Grocery,Snacks,999999.0
+P2297,Watches Item 297,Fashion,Watches,12086.95
+P2298,Personal Care Item 298,Grocery,Personal Care,788.17
+P2299,Accessories Item 299,Electronics,Accessories,18377.95
+P2300,Mobiles Item 300,Electronics,Mobiles,22898.57
+P2301,Outdoor Item 301,Sports,Outdoor,13446.39
+P2302,Men Clothing Item 302,Fashion,Men Clothing,17312.33
+P2303,Accessories Item 303,Electronics,Accessories,6073.45
+P2304,Footwear Item 304,Fashion,Footwear,12549.59
+P2305,Staples Item 305,Grocery,Staples,10879.52
+P2306,Staples Item 306,Grocery,Staples,13613.61
+P2307,Fitness Item 307,Sports,Fitness,13526.83
+P2308,Men Clothing Item 308,Fashion,Men Clothing,25197.24
+P2309,Beverages Item 309,Grocery,Beverages,11351.05
+P2310,Fitness Item 310,Sports,Fitness,42349.1
+P2311,Watches Item 311,Fashion,Watches,23055.75
+P2312,Accessories Item 312,Electronics,Accessories,5889.7
+P2313,Fitness Item 313,Sports,Fitness,12653.6
+P2314,Outdoor Item 314,Sports,Outdoor,32865.84
+P2315,Decor Item 315,Home,Decor,712.3
+P2316,Decor Item 316,Home,Decor,42207.97
+P2317,Staples Item 317,Grocery,Staples,20087.89
+P2318,Team Sports Item 318,Sports,Team Sports,23495.97
+P2319,Beverages Item 319,Grocery,Beverages,44479.7
+P2320,Fitness Item 320,Sports,Fitness,22702.3
+P2321,Footwear Item 321,Fashion,Footwear,42653.65
+P2322,Decor Item 322,Home,Decor,41193.79
+P2323,Furniture Item 323,Home,Furniture,42365.01
+P2324,Apparel Item 324,Sports,Apparel,36575.36
+P2325,Fitness Item 325,Sports,Fitness,13407.57
+P2326,Apparel Item 326,Sports,Apparel,15651.92
+P2327,Staples Item 327,Grocery,Staples,16487.15
+P2328,Decor Item 328,Home,Decor,44065.2
+P2329,Personal Care Item 329,Grocery,Personal Care,16297.28
+P2330,Staples Item 330,Grocery,Staples,4979.26
+P2331,Men Clothing Item 331,Fashion,Men Clothing,35046.75
+P2332,Furniture Item 332,Home,Furniture,16535.61
+P2333,Fitness Item 333,Sports,Fitness,27979.64
+P2334,Team Sports Item 334,Sports,Team Sports,41603.71
+P2335,Team Sports Item 335,Sports,Team Sports,25939.78
+P2336,Decor Item 336,Home,Decor,28732.38
+P2337,Furniture Item 337,Home,Furniture,28964.17
+P2338,Appliances Item 338,Home,Appliances,27596.34
+P2339,Decor Item 339,Home,Decor,7272.8
+P2340,Furniture Item 340,Home,Furniture,20592.51
+P2341,Apparel Item 341,Sports,Apparel,443.12
+P2342,Cameras Item 342,Electronics,Cameras,28218.92
+P2343,Laptops Item 343,Electronics,Laptops,25933.16
+P2344,Men Clothing Item 344,Fashion,Men Clothing,14383.68
+P2345,Men Clothing Item 345,Fashion,Men Clothing,23622.43
+P2346,Cameras Item 346,Electronics,Cameras,22237.79
+P2347,Fitness Item 347,Sports,Fitness,11365.34
+P2348,Kitchen Item 348,Home,Kitchen,13267.9
+P2349,Personal Care Item 349,Grocery,Personal Care,34337.85
+P2350,Apparel Item 350,Sports,Apparel,34032.14
+P2351,Laptops Item 351,Electronics,Laptops,21192.69
+P2352,Watches Item 352,Fashion,Watches,32315.87
+P2353,Team Sports Item 353,Sports,Team Sports,20340.43
+P2354,Furniture Item 354,Home,Furniture,38326.55
+P2355,Watches Item 355,Fashion,Watches,15042.35
+P2356,Beverages Item 356,Grocery,Beverages,41735.36
+P2357,Footwear Item 357,Fashion,Footwear,24448.08
+P2358,Fitness Item 358,Sports,Fitness,24151.92
+P2359,Watches Item 359,Fashion,Watches,30219.06
+P2360,Men Clothing Item 360,Fashion,Men Clothing,15403.78
+P2361,Fitness Item 361,Sports,Fitness,32622.12
+P2362,Outdoor Item 362,Sports,Outdoor,14486.41
+P2363,Furniture Item 363,Home,Furniture,17948.89
+P2364,Personal Care Item 364,Grocery,Personal Care,30393.86
+P2365,Apparel Item 365,Sports,Apparel,17091.74
+P2366,Kitchen Item 366,Home,Kitchen,9078.04
+P2367,Apparel Item 367,Sports,Apparel,39248.25
+P2368,Watches Item 368,Fashion,Watches,41504.7
+P2369,Decor Item 369,Home,Decor,28239.85
+P2370,Team Sports Item 370,Sports,Team Sports,36520.48
+P2371,Appliances Item 371,Home,Appliances,44400.68
+P2372,Snacks Item 372,Grocery,Snacks,27703.0
+P2373,Snacks Item 373,Grocery,Snacks,40904.7
+P2374,Fitness Item 374,Sports,Fitness,16229.9
+P2375,Staples Item 375,Grocery,Staples,31550.91
+P2376,Beverages Item 376,Grocery,Beverages,2604.72
+P2377,Kitchen Item 377,Home,Kitchen,35524.61
+P2378,Men Clothing Item 378,Fashion,Men Clothing,37357.99
+P2379,Men Clothing Item 379,Fashion,Men Clothing,18112.18
+P2380,Decor Item 380,Home,Decor,28788.72
+P2381,Mobiles Item 381,Electronics,Mobiles,38640.27
+P2382,Women Clothing Item 382,Fashion,Women Clothing,39773.89
+P2383,Cameras Item 383,Electronics,Cameras,4882.37
+P2384,Furniture Item 384,Home,Furniture,37254.03
+P2385,Furniture Item 385,Home,Furniture,12412.8
+P2386,Staples Item 386,Grocery,Staples,32755.81
+P2387,Watches Item 387,Fashion,Watches,14699.2
+P2388,Accessories Item 388,Electronics,Accessories,2628.26
+P2389,Cameras Item 389,Electronics,Cameras,9522.4
+P2390,Kitchen Item 390,Home,Kitchen,18448.77
+P2391,Watches Item 391,Fashion,Watches,33380.91
+P2392,Appliances Item 392,Home,Appliances,4620.69
+P2393,Kitchen Item 393,Home,Kitchen,36600.56
+P2394,Women Clothing Item 394,Fashion,Women Clothing,44863.1
+P2395,Furniture Item 395,Home,Furniture,35492.56
+P2396,Cameras Item 396,Electronics,Cameras,21370.24
+P2397,Outdoor Item 397,Sports,Outdoor,25609.96
+P2398,Beverages Item 398,Grocery,Beverages,375.61
+P2399,Decor Item 399,Home,Decor,9495.6
+P2400,Snacks Item 400,Grocery,Snacks,40464.47
+P2401,Furniture Item 401,Home,Furniture,1074.67
+P2402,Fitness Item 402,Sports,Fitness,0.0
+P2403,Beverages Item 403,Grocery,Beverages,5184.16
+P2404,Outdoor Item 404,Sports,Outdoor,6074.16
+P2405,Outdoor Item 405,Sports,Outdoor,7972.39
+P2406,Women Clothing Item 406,Fashion,Women Clothing,35992.2
+P2407,Personal Care Item 407,Grocery,Personal Care,21570.06
+P2408,Appliances Item 408,Home,Appliances,6618.47
+P2409,Men Clothing Item 409,Fashion,Men Clothing,30937.09
+P2410,Footwear Item 410,Fashion,Footwear,42336.85
+P2411,Decor Item 411,Home,Decor,25802.64
+P2412,Cameras Item 412,Electronics,Cameras,4530.73
+P2413,Team Sports Item 413,Sports,Team Sports,2557.36
+P2414,Fitness Item 414,Sports,Fitness,35834.46
+P2415,Watches Item 415,Fashion,Watches,28210.78
+P2416,Furniture Item 416,Home,Furniture,41527.24
+P2417,Personal Care Item 417,Grocery,Personal Care,24671.08
+P2418,Laptops Item 418,Electronics,Laptops,2900.62
+P2419,Accessories Item 419,Electronics,Accessories,18224.94
+P2420,Men Clothing Item 420,Fashion,Men Clothing,29643.44
+P2421,Laptops Item 421,Electronics,Laptops,-100.0
+P2422,Outdoor Item 422,Sports,Outdoor,44981.65
+P2423,Cameras Item 423,Electronics,Cameras,18300.91
+P2424,Personal Care Item 424,Grocery,Personal Care,24625.55
+P2425,Women Clothing Item 425,Fashion,Women Clothing,10219.33
+P2426,Fitness Item 426,Sports,Fitness,6930.16
+P2427,Watches Item 427,Fashion,Watches,29073.86
+P2428,Staples Item 428,Grocery,Staples,26528.3
+P2429,Team Sports Item 429,Sports,Team Sports,293.82
+P2430,Men Clothing Item 430,Fashion,Men Clothing,12885.98
+P2431,Outdoor Item 431,Sports,Outdoor,28996.37
+P2432,Furniture Item 432,Home,Furniture,36569.81
+P2433,Furniture Item 433,Home,Furniture,14124.66
+P2434,Watches Item 434,Fashion,Watches,29169.54
+P2435,Apparel Item 435,Sports,Apparel,12009.35
+P2436,Fitness Item 436,Sports,Fitness,31097.75
+P2437,Decor Item 437,Home,Decor,31437.56
+P2438,Appliances Item 438,Home,Appliances,5946.16
+P2439,Kitchen Item 439,Home,Kitchen,29962.2
+P2440,Beverages Item 440,Grocery,Beverages,15076.5
+P2441,Fitness Item 441,Sports,Fitness,7848.69
+P2442,Personal Care Item 442,Grocery,Personal Care,22565.72
+P2443,Appliances Item 443,Home,Appliances,20407.57
+P2444,Kitchen Item 444,Home,Kitchen,34846.75
+P2445,Personal Care Item 445,Grocery,Personal Care,3893.83
+P2446,Team Sports Item 446,Sports,Team Sports,35559.71
+P2447,Furniture Item 447,Home,Furniture,4862.2
+P2448,Appliances Item 448,Home,Appliances,9414.12
+P2449,Laptops Item 449,Electronics,Laptops,23262.62
+P2450,Decor Item 450,Home,Decor,20896.0
+P2451,Staples Item 451,Grocery,Staples,44499.76
+P2452,Fitness Item 452,Sports,Fitness,26566.96
+P2453,Apparel Item 453,Sports,Apparel,14801.19
+P2454,Outdoor Item 454,Sports,Outdoor,40516.58
+P2455,Cameras Item 455,Electronics,Cameras,14117.76
+P2456,Laptops Item 456,Electronics,Laptops,12391.8
+P2457,Kitchen Item 457,Home,Kitchen,22296.79
+P2458,Staples Item 458,Grocery,Staples,41101.46
+P2459,Footwear Item 459,Fashion,Footwear,31912.0
+P2460,Fitness Item 460,Sports,Fitness,30518.67
+P2461,Decor Item 461,Home,Decor,32700.6
+P2462,Women Clothing Item 462,Fashion,Women Clothing,29717.52
+P2463,Apparel Item 463,Sports,Apparel,34214.62
+P2464,Furniture Item 464,Home,Furniture,8754.21
+P2465,Apparel Item 465,Sports,Apparel,8058.07
+P2466,Snacks Item 466,Grocery,Snacks,16360.5
+P2467,Cameras Item 467,Electronics,Cameras,38307.95
+P2468,Fitness Item 468,Sports,Fitness,0.0
+P2469,Team Sports Item 469,Sports,Team Sports,25534.22
+P2470,Footwear Item 470,Fashion,Footwear,972.21
+P2471,Furniture Item 471,Home,Furniture,10686.76
+P2472,Beverages Item 472,Grocery,Beverages,36177.58
+P2473,Apparel Item 473,Sports,Apparel,10986.9
+P2474,Apparel Item 474,Sports,Apparel,32889.76
+P2475,Beverages Item 475,Grocery,Beverages,8389.26
+P2476,Fitness Item 476,Sports,Fitness,27325.51
+P2477,Team Sports Item 477,Sports,Team Sports,28306.32
+P2478,Kitchen Item 478,Home,Kitchen,33863.04
+P2479,Personal Care Item 479,Grocery,Personal Care,19781.01
+P2480,Beverages Item 480,Grocery,Beverages,28506.73
+P2481,Personal Care Item 481,Grocery,Personal Care,21964.43
+P2482,Watches Item 482,Fashion,Watches,42635.43
+P2483,Furniture Item 483,Home,Furniture,23531.97
+P2484,Outdoor Item 484,Sports,Outdoor,9510.15
+P2485,Women Clothing Item 485,Fashion,Women Clothing,30088.04
+P2486,Footwear Item 486,Fashion,Footwear,24725.73
+P2487,Outdoor Item 487,Sports,Outdoor,36191.75
+P2488,Snacks Item 488,Grocery,Snacks,8042.51
+P2489,Women Clothing Item 489,Fashion,Women Clothing,11815.45
+P2490,Footwear Item 490,Fashion,Footwear,41481.07
+P2491,Mobiles Item 491,Electronics,Mobiles,41858.1
+P2492,Outdoor Item 492,Sports,Outdoor,19956.77
+P2493,Footwear Item 493,Fashion,Footwear,2243.08
+P2494,Kitchen Item 494,Home,Kitchen,13863.63
+P2495,Staples Item 495,Grocery,Staples,11195.05
+P2496,Beverages Item 496,Grocery,Beverages,18718.41
+P2497,Team Sports Item 497,Sports,Team Sports,14368.57
+P2498,Cameras Item 498,Electronics,Cameras,37321.59
+P2499,Staples Item 499,Grocery,Staples,235.32
