@@ -1,0 +1,7 @@
+region_id,region_name,country,zone
+R01,North India,India,North
+R02,South India,India,South
+R03,East India,India,East
+R04,West India,India,West
+R05,Central India,India,Central
+R06,North East,India,North East
